@@ -8,13 +8,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kausar-blog&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: JavaScript / BOOTSTRAP / Tailwind CSS / REACT / HTML / CSS
 
 </div>
 
 - 🔭 I’m currently studying at [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, JavaScript, React JS
+- 🌱 I’m currently learning Golang, JavaScript, React 
 
 - 👨‍💻 All of my projects are available at [https://github.com/kausar-blog](https://github.com/kausar-blog)
 
