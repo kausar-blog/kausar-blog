@@ -12,7 +12,8 @@ Skills: JavaScript / BOOTSTRAP / Tailwind CSS / REACT / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently studying at [Hablu Programmer](https://www.hablu-programmer.com/)
+<!-- - 🔭 I’m currently studying at [Hablu Programmer](https://www.hablu-programmer.com/) -->
+- 🔭 I’m currently studying at [Programming Hero](https://www.programming-hero.com/)
 
 - 🌱 I’m currently learning Golang, JavaScript, React 
 
